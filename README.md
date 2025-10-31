@@ -1,10 +1,12 @@
-# Visualisierungsmöglichkeiten mit Python – Auswertung von Ngspice-Simulationsdaten im Rahmen der gm/Id-Designmethodik
+# Visualization in Python – The gm/Id Design Methodology using Ngspice Simulation Data 
 
-Screenshot from Ngspice
-<img width="1366" height="768" alt="Screenshot From 2025-10-25 10-36-44" src="https://github.com/user-attachments/assets/c884d639-d1b8-49b2-ba03-58585f53248f" />
+## Screenshot from Xschem
+![Xschem Screenshot](https://github.com/user-attachments/assets/c884d639-d1b8-49b2-ba03-58585f53248f)
 
-###
-Ngspice Command
+---
+
+## Ngspice Command
+```spice
 name=SPICE only_toplevel=false value="
 .control
 save all
@@ -38,13 +40,12 @@ print @n.xm1.nsg13_lv_nmos[ids] @n.xm1.nsg13_lv_nmos[gm] @n.xm1.nsg13_lv_nmos[gd
 *meas dc ids find curr at=1.8
 *write test.raw
 
-
 *show > nmos_tb.txt
 .endc
 "
+```
 
-###
+## gm/Id Curve
 
-# gm/Id Curve
-<img width="1200" height="1000" alt="plot" src="https://github.com/user-attachments/assets/1a650d8e-71f5-496e-ac1a-b3522c66f9b4" />
+<img width="1200" height="1000" alt="plot" src="https://github.com/user-attachments/assets/35b8e722-2ee7-4111-9ea9-29226d2e9477" />
 
