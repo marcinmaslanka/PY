@@ -45,3 +45,6 @@ print @n.xm1.nsg13_lv_nmos[ids] @n.xm1.nsg13_lv_nmos[gm] @n.xm1.nsg13_lv_nmos[gd
 
 ###
 
+# gm/Id Curve
+<img width="1200" height="1000" alt="plot" src="https://github.com/user-attachments/assets/1a650d8e-71f5-496e-ac1a-b3522c66f9b4" />
+
