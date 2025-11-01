@@ -59,4 +59,4 @@ print @n.xm1.nsg13_lv_nmos[ids] @n.xm1.nsg13_lv_nmos[gm] @n.xm1.nsg13_lv_nmos[gd
 
 ## Heatmap W/L with respect to ft
 
-<img width="1000" height="800" alt="plot_w_l_ft" src="https://github.com/user-attachments/assets/ff4ad477-0183-44c6-b2bf-422539f082b1" />
+<img width="1000" height="800" alt="plot_w_l_ft" src="https://github.com/user-attachments/assets/2d9d9260-3bf9-45a9-a532-cb14b5ef023b" />
