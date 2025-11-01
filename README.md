@@ -49,3 +49,14 @@ print @n.xm1.nsg13_lv_nmos[ids] @n.xm1.nsg13_lv_nmos[gm] @n.xm1.nsg13_lv_nmos[gd
 
 <img width="1200" height="1000" alt="plot" src="https://github.com/user-attachments/assets/35b8e722-2ee7-4111-9ea9-29226d2e9477" />
 
+## gm/Id vs. Vov with Parameter ft
+
+<img width="640" height="480" alt="plot_gm_id_vov_ft" src="https://github.com/user-attachments/assets/08cfd15d-cf74-4b71-ab47-9c842be984b0" />
+
+## gm/Id vs. Square Law Equation - Error Bars
+
+<img width="800" height="600" alt="plot_gm_id_square_law_error" src="https://github.com/user-attachments/assets/39c23c92-ea2f-4ea4-a8c5-5381d3de8eb4" />
+
+## Heatmap W/L with respect to ft
+
+<img width="1000" height="800" alt="plot_w_l_ft" src="https://github.com/user-attachments/assets/ff4ad477-0183-44c6-b2bf-422539f082b1" />
